@@ -1,8 +1,12 @@
 # Getting Started with VSCode and WPILib
 
+## Install Git
+
+[Git install guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 ## Install Visual Studio Code
 
-## Install Git
+[VSCode setup page](https://code.visualstudio.com/docs/setup/setup-overview)
 
 ## Install VS Code extension
 
