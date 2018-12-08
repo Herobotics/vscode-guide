@@ -21,3 +21,11 @@ From extensions click the "More Actions" dots, select "install from VSIX"
 ![Install VSIX](install_vsix.png)
 
 ## Use Extension to Start a Project
+
+1. Use Ctrl + Shift + P to open the command palette, then type WPILib.
+2. A list of commands should come up. Select "Create a new project."
+
+## Deploy Your Project
+
+1. Open up the command palette and use the "Deploy Robot Code" command.
+2. If you just want to build your code, without deploying, then you can use "Build Robot Code."
