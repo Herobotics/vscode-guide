@@ -21,3 +21,5 @@ From extensions click the "More Actions" dots, select "install from VSIX"
 ![Install VSIX](install_vsix.png)
 
 ## Use Extension to Start a Project
+
+If you're reading this, it's too late.
